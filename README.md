@@ -10,8 +10,6 @@ border-radius:30px;
 background:linear-gradient(blue,orange);}
 p{font-size:30px;
 font-family: 'Noto Serif', serif;}
-html{Background:linear-gradient(#F48FB1,#FFAB40,#FFFF00);}
-a {text-decoration:none;}
 </style>
     <h1>Biography of Sanjana.</h1>
     <hr></head>
@@ -20,13 +18,10 @@ a {text-decoration:none;}
     
    <p> My hobbies :<br> I like Dancing, Reading Books, Public Speeking and Website designing<br> My favourite sports are Badmitton, Carrom, Business and Cricket.<hr>
     
-    <p>Extra Activities:<br> I do Yoga every morning and go for jogging.<br>Here are my video on Yoga.<br>
-      <a href="https://www.youtube.com/watch?v=_RVSALoqTOM">My 1<sup>th</sup>video.<br>
-        <a href="https://www.youtube.com/watch?v=_a5mjoihrIw"> MY 2<sup>nd</sup> video. <br></a href><hr>
+    <p>Extra Activities:<br> I do Yoga every morning and go for jogging.<hr>
        
     <p>Education :<br>Istudied at 9 schools upto class 10<sup>th</sup> in English medium.<br> I studied my 1<sup>th</sup>kindergarden in Banglore (Varna Vidyalaya School),<br> 2<sup>nd</sup> Kindergarden in Saudi Arabia (Dauha-al-Uloom),<br> 1<sup>th</sup> std in Saudi Arabia (Novel International School),<br> I studied 2<sup>nd</sup> std to 5<sup>th</sup> std in Banglore (Oxford English School.),<br>I studied 6<sup>th</sup> std in Dubai(Gems Millennium School.),<br> I studied 7<sup>th</sup> and 8<sup>th</sup> std in Mumbai (S.M. Shetty international school.),<br> I studied 9<sup>th</sup> std in Mumbai (Pawar Public School)<br> 11<sup>th</sup> std in K.V. Pendharkar College Mumbai. and  presently I am studying 12<sup>th</sup> std in K.V Pendharkar College Mumbai.<br>
       In India there are 2 public exams for class 10 and 12<sup>th</sup> std.<br> In 10<sup>th</sup> std I scored 87% (I.C.S.E. Board Exam)<br><hr>
         <p>Future Plan :<br> After 12<sup>th</sup> I want to pursue my eduction to Bsc (I.T.)/B.C.A and I want to become Web designer or Database Manager.
-        </p></head></html>
-    
+      
        
