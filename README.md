@@ -14,7 +14,7 @@ html{Background:linear-gradient(#F48FB1,#FFAB40,#FFFF00);}
 a {text-decoration:none;}
 </style>
     <h1>Biography of Sanjana.</h1>
-    <hr></head>>
+    <hr></head>
     <body>
     <p>About me : <br> My name is Sanjana Prithviraj. I was born on November 2<sup>nd</sup> in Tiptur, Karnataka. My native place is Banglore, Karnataka.<br> I am studying in 12<sup>th</sup> std in K.V Pendharkar College, Dombivali Mumbai.<br> My mom's name is Poornima. My dad's name is Prithviraj and my bro's name is Surya. <hr>
     
